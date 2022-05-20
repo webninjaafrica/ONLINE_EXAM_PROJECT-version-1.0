@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SALES DATA</title>
+    <style type="text/css">
+        body{
+            font-family: Tahoma;
+        }
+    </style>
+   
+</head>
+<body>
+ <center> <h4>PRODUCT SALES DATA (Per Brand)</h4>
+    <br><p>Downloaded on: 2020-04-30</p></center>
+<table class="table" style="text-align: center;width: 100%;" border="1" cellpadding="4">
+                               <thead>
+                                <tr style="background: #323232;color: white;">
+                                   <th>Product</th>
+                                    <th>Quantity Sold</th> 
+                                     <th>Date SOLD</th>
+                                     <th>Total Sales(Ksh)</th>
+                                     <th>Amount</th>
+                                    <th>Total Profit (Ksh)</th>
+                                 </tr>
+                               </thead>
+                               <tbody>
+                                                                   <tr>
+                                      <td>CAPTAIN 1/4 </td> 
+                                      <td>2</td> 
+                                      <td>2020-04-30</td> 
+                                      
+
+                                <td>7000</td> 
+                                <td>Ksh. 14000</td>
+                                <td>13534</td> 
+
+                                   </tr>
+                                                                      <tr>
+                                      <td>V & A 1/4 </td> 
+                                      <td>1</td> 
+                                      <td>2020-04-30</td> 
+                                      
+
+                                <td>50000</td> 
+                                <td>Ksh. 50000</td>
+                                <td>47000</td> 
+
+                                   </tr>
+                                                                      <tr>
+                                       <td colspan="1">Totals</td>
+                                       <td>3</td>
+                                       <td colspan="3"></td>
+
+                                       <td>60534</td>
+
+                                   </tr>
+                               </tbody>
+                           </table>
+
+
+
+</body>
+</html>
